@@ -77,42 +77,15 @@ reddit-app/
 └── README.md
 ```
 
-## 🖥️ Screenshots
-
-### 🏠 Home Feed
-
-![Home Feed](docs/home.png)
-
-### ✍️ Create Post
-
-![Create Post](docs/create-post.png)
-
-### 💬 Post & Comments
-
-![Post Detail](docs/post-detail.png)
-
-### 👤 User Profile
-
-![Profile](docs/profile.png)
-
-### 🔐 Authentication
-
-![Login](docs/login.png)
-
-### ⚙️ User Menu
-
-![Dropdown](docs/dropdown.png)
-
-
-## 🖥️ Screenshots
+##  Screenshots
 
 | Home Feed                      | Post Detail                           |
 | ------------------------------ | ------------------------------------- |
-| ![](docs/home.png) | ![](docs/post-detail.png) |
+| ![](docs/home.png)             | ![](docs/post-detail.png)             |
 
 | Create Post                           | Create Subreddit                           |
 | ------------------------------------- | ------------------------------------------ |
-| ![](docs/create-post.png) | ![](docs/create-subreddit.png) |
+| ![](docs/create-post.png)             | ![](docs/create-subreddit.png)             |
 
 ---
 
