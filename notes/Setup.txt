@@ -6,4 +6,3 @@ Dependencies - 1. Spring Web
 			   4. Spring Data JPA
 			   5. MySQL driver
 			   6. Java Mail Sender
-			   7. 
